@@ -1,16 +1,35 @@
-# twitter
+<h1>Twitter-X</h1>
 
-A new Flutter project.
+<p>Twitter-X is a Twitter clone built using Flutter. This application aims to replicate the core functionalities of Twitter, including user authentication, tweet creation, and  browsing.</p>
 
-## Getting Started
+<h2>Features</h2>
+<ul>
+    <li><strong>User Authentication</strong>: Sign up, log in, and manage user profiles.</li>
+    <li><strong>Tweet Creation</strong>: Post, edit, and delete tweets.</li>
+    <li><strong>Profile Management</strong>: View and edit user profiles.</li>
+</ul>
 
-This project is a starting point for a Flutter application.
+<h2>Getting Started</h2>
 
-A few resources to get you started if this is your first Flutter project:
+<h3>Prerequisites</h3>
+<p>Ensure you have the following installed:</p>
+<ul>
+    <li><a href="https://flutter.dev/docs/get-started/install">Flutter</a> </li>
+    <li><a href="https://dart.dev/get-dart">Dart</a></li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h3>Installation</h3>
+<ol>
+    <li>Clone the repository:
+        <pre><code>git clone https://github.com/BereketZz/twitter-x.git</code></pre>
+    </li>
+    <li>Navigate to the project directory:
+        <pre><code>cd twitter-x</code></pre>
+    </li>
+    <li>Install dependencies:
+        <pre><code>flutter pub get</code></pre>
+    </li>
+</ol>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Running the App</h3>
+<pre><code>flutter run</code></pre>
